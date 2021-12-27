@@ -1,0 +1,17 @@
+{
+    "name": "laity/ceshi",
+    "description": "dev",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Laity\\Ceshi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wangbs",
+            "email": "1813953691@qq.com"
+        }
+    ],
+    "require": {}
+}
