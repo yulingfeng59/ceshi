@@ -2,6 +2,7 @@
     "name": "laity/ceshi",
     "description": "dev",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Laity\\Ceshi\\": "src/"
